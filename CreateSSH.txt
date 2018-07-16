@@ -1,0 +1,8 @@
+
+(first)
+
+$ ssh-keygen -t rsa -b 4096 -C "Your Email"
+
+(Second)
+
+$ cat ~/.ssh/id_rsa.pub
