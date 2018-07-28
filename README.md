@@ -13,7 +13,7 @@ website: http://www.kodingindonesia.com/
     masukan perintah dibawah ini.
 git clone git@github.com:Rangkuman/Android_Crud_Sql.git
 
-2. buat data base dengan nama db_android
+2. buat data base dengan nama db_android kemudian inport file db_android.sql ke dalamnya.
 
 3. copy / cut folder Android di folder htdocs
 
